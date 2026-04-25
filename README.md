@@ -54,8 +54,8 @@ The final dataset (`kaspi_smart_data.csv`) includes the following key features:
 ## Execution Guide
 1. **Install dependencies:** `pip install -r requirements.txt`
 2. **Run the pipeline in order:** `python scripts/kaspi_data_part3.py`  
-   `python scripts/cleaning.py`  
-   `python scripts/analysis.py`  
-   `python scripts/visualization.py`
+   `python cleaning.py`  
+   `python analysis.py`  
+   `python visualization.py`
 
 ---
