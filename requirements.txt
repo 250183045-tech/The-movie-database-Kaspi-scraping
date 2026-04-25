@@ -1,0 +1,11 @@
+pandas
+playwright
+rich
+seaborn
+matplotlib
+plotly
+numpy
+scikit-learn
+wordcloud
+requests
+beautifulsoup4
