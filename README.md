@@ -43,10 +43,10 @@ The final dataset (`kaspi_smart_data.csv`) includes the following key features:
 - Machine Learning coefficients indicate that product ratings have a stronger impact on success than raw popularity.
 
 ## Repository Structure
-* [cite_start]`kaspi_data_part3.py` — Asynchronous scraping engine[cite: 4].
-* [cite_start]`cleaning.py` — Data enrichment and feature engineering module[cite: 1].
-* [cite_start]`analysis.py` — Statistical modeling and hypothesis testing script.
-* [cite_start]`visualization.py` — Automated 12-chart reporting suite[cite: 3].
+* `kaspi_data_part3.py` — Asynchronous scraping engine.
+* `cleaning.py` — Data enrichment and feature engineering module.
+* `analysis.py` — Statistical modeling and hypothesis testing script.
+* `visualization.py` — Automated 12-chart reporting suite.
 * `requirements.txt` — List of required Python dependencies.
 
 ---
